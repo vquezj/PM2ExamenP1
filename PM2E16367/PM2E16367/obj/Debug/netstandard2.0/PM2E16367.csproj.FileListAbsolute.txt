@@ -1,0 +1,17 @@
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\PM2E16367.csproj.AssemblyReference.cache
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\PM2E16367.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\Views\UbicacionesPage.xaml.g.cs
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\PM2E16367.AssemblyInfoInputs.cache
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\PM2E16367.AssemblyInfo.cs
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\PM2E16367.csproj.CoreCompileInputs.cache
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\bin\Debug\netstandard2.0\PM2E16367.deps.json
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\bin\Debug\netstandard2.0\PM2E16367.dll
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\bin\Debug\netstandard2.0\ref\PM2E16367.dll
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\bin\Debug\netstandard2.0\PM2E16367.pdb
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\PM2E16367.dll
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\ref\PM2E16367.dll
+C:\Users\50497\source\repos\PM2E16367\PM2E16367\PM2E16367\obj\Debug\netstandard2.0\PM2E16367.pdb
